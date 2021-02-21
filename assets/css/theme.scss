@@ -113,11 +113,22 @@ img, img:hover {
     animation: fade-up 0.7s ease-out forwards running;
 }
 // menu
+#site-logoname {
+    display: flex;
+    align-items: center;
+}
 .navbar-brand img {
     max-height:80px;
     margin-bottom:40px;
     margin-top:40px;
 }
+
+#titelsite {
+    font-weight: normal;
+    word-wrap: break-word;
+    font-size: 1.6rem;
+}
+
 .sidebar {
     position: fixed;
     left: 0px;
