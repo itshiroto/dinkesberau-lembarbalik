@@ -1,0 +1,28 @@
+- name: Petunjuk Umum
+  category: Petunjuk
+  url: /petunjuk
+  
+- name: Ibu Hamil, Nifas dan Menyusui
+  category: IbuNifas-dan-Menyusui
+  url: /ibuhamil
+
+- name: Balita
+  category: Balita
+  url: /balita
+  
+- name: Anak Usia Sekolah
+  category: AnakUsiaSekolah
+  url: /anaksekolah
+  
+- name: Remaja
+  category: Remaja
+  url: /remaja
+  
+- name: Usia Kerja
+  category: UsiaKerja
+  url: /usiakerja
+  
+- name: Lansia
+  category: Lansia
+  url: /lansia
+
