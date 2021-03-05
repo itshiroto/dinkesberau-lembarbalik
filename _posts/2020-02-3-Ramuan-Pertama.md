@@ -2,7 +2,7 @@
 layout: post
 title:  "Pendahuluan"
 author: admin
-categories: [ Ramuan ]
+categories: [ Petunjuk, Ramuan ]
 image: assets/images/post.jpg
 ---
 
